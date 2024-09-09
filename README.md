@@ -1,5 +1,10 @@
 # **Implementación de un Lakehouse en AWS**
 
+## **Integrantes**
+- Andres Guerra
+- Tomás Duque
+- Juan Felipe Ortiz
+
 ## **Introducción**
 
 Este proyecto se centra en la implementación de un **Lakehouse** en **Amazon Web Services (AWS)** utilizando datasets obtenidos de **Kaggle**, que contienen información sobre:
